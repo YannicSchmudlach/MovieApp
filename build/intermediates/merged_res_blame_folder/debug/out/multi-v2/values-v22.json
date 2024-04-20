@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.bonusaufgabeppy.app-mergeDebugResources-74:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/yannicschmudlach/.gradle/caches/transforms-3/2309600c9c1e38cdeb6673e7b0a24667/transformed/appcompat-1.5.1/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}
